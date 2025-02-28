@@ -3,10 +3,10 @@
 This repository contains the code for the TetraFlow Application System, designed to handle the application process for a specific course or program. The system allows users to apply through a web form, and administrators can monitor applications through a dashboard. The backend handles the logic of checking applicants' eligibility and available space in the program and sends automated emails based on the outcome.
 # Collaborators
 This project is a collaborative effort by the following team members:
-Tariro Grace Kangausaru
-Unthatile Michel Mahlangu
-Mosa Penya
-Rubina Moyakhe
+1. Tariro Grace Kangausaru
+2. Unthatile Michel Mahlangu
+3. Mosa Penya
+4. Rubina Moyakhe
 
 # Features
 # Frontend (User Interface)
